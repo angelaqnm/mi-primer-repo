@@ -5,7 +5,7 @@ Proyecto de práctica para mi primer PR con Claude.
 ## Características
 
 - Este es un repositorio de ejemplo
-- Aqui practicaremos el flujo de PRs
+- Aquí practicaremos el flujo de PRs
 - ¡Esperamos que disfrutes el proceso!
 
 ## Cómo empezar
